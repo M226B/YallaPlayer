@@ -14,6 +14,7 @@ public class Main extends Application {
         primaryStage.setTitle("Yalla Player");
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
+        System.exit(0);
     }
 
 
